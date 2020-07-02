@@ -1,0 +1,52 @@
+
+.minnie {
+  position: absolute;
+  top: 150px;
+  left: 150px;
+}
+
+.skylon {
+  position: absolute;
+  top: 150px;
+  right: 150px;
+
+}
+
+body {
+  background-color: pink;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  font-size: 65px;
+  margin: 50px auto 0 auto;
+  color: purple;
+  font-family: 'Sacramento', cursive;
+}
+img {
+  height: 500px;
+  width: 350px;
+  border-color: white;
+  border-width: 20px;
+  border-style: groove;
+
+}
+a:hover {
+  color: blue;
+}
+
+.home {
+
+  position: absolute;
+  bottom: 60px;
+  left: 750px;
+  color: purple;
+  font-size: 15px;
+  }
+
+a {
+  color: purple;
+  font-size: 25px;
+  font-weight: bold;
+}
